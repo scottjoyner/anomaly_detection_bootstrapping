@@ -2,8 +2,8 @@
 
 <!-- repo-entrypoint-guide:start -->
 > **Reader guide:** Start with [Overview](#1-overview), [Key Capabilities](#2-key-capabilities), and [Quick Start](#4-quick-start). Treat the notebook as a reproducible demonstration, not a validated compliance control or a substitute for institution-specific model review.
-> >
-> > **Data handling:** Use synthetic or authorized, de-identified input data for demonstrations; document sampling assumptions, thresholds, and false-positive/false-negative tradeoffs before operational use.
+>
+> **Data handling:** Use synthetic or authorized, de-identified input data for demonstrations; document sampling assumptions, thresholds, and false-positive/false-negative tradeoffs before operational use.
 <!-- repo-entrypoint-guide:end -->
 
 
